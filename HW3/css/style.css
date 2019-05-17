@@ -1,43 +1,5 @@
-@import "reset.css" ;
-@import "navigate.css" ;
-@import  url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
-
-.menu2 {
-    margin: auto;
-    padding: 100px;
-    width: 1000px;
-}
-
-.menu2 li{
-    display: inline-block;
-    width: 460px;
-    margin-right: 30px;
-    margin-bottom: 150px;
-}
-
-.button{
-    width: 160px;
-    height: 60px;
-    background-color: transparent;
-    border:1px solid grey;
-    color: gray;
-    font-size: 18px;
-}
-
-button:hover {
-    background-color: grey;
-    color: white;
-}
-
-.h2 {
-    color: grey;
-}
-
-.p {
-    color: grey;
-}
-
-
-.div {
-    margin: auto; 
-}
+@import "./reset.css";
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400");
+@import "./navigate.css";
+@import "./main.css";

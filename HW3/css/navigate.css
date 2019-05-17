@@ -1,6 +1,7 @@
-.wrapper{
+/* .wrapper{ 
     background-color: #ffffff;
-}
+ } */
+
 .header{
     width: 900px;
     margin:0 auto 100px;
@@ -29,4 +30,3 @@
     color:#03a9f4;
 }
 
-.aricle:nth-child(2n+2)
